@@ -1,0 +1,62 @@
+[
+    {
+        "codigo": 101,
+        "titulo": "Velocidade Maxima",
+        "duracao": 2,
+        "atores": [
+            "Maria",
+            "Renan",
+            "Zezao"
+        ],
+        "anoDeLancamento": 2005,
+        "emCartaz": true
+    },
+    {
+        "codigo": 102,
+        "titulo": "Miranha",
+        "duracao": 1.5,
+        "atores": [
+            "Djair",
+            "Djalma",
+            "Soninha"
+        ],
+        "anoDeLancamento": 2022,
+        "emCartaz": true
+    },
+    {
+        "codigo": 103,
+        "titulo": "Thor",
+        "duracao": 2,
+        "atores": [
+            "Salete",
+            "Rayane",
+            "Silvinho"
+        ],
+        "anoDeLancamento": 2022,
+        "emCartaz": true
+    },
+    {
+        "codigo": 104,
+        "titulo": "Piratas do Caribe",
+        "duracao": 3,
+        "atores": [
+            "Jorginho",
+            "Gerinho",
+            "Silveirinha"
+        ],
+        "anoDeLancamento": 2010,
+        "emCartaz": false
+    },
+    {
+        "codigo": 104,
+        "titulo": "Piratas do Caribe",
+        "duracao": 3,
+        "atores": [
+            "Jorginho",
+            "Gerinho",
+            "Silveirinha"
+        ],
+        "anoDeLancamento": 2010,
+        "emCartaz": false
+    }
+]
